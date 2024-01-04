@@ -1787,12 +1787,12 @@ sigs:
   label: instrumentation
   leadership:
     chairs:
-    - github: ehashman
-      name: Elana Hashman
-      company: Apple
     - github: logicalhan
       name: Han Kang
       company: Google
+    - github: rexagod
+      name: Pranshu Srivastava
+      company: Red Hat
     tech_leads:
     - github: dashpole
       name: David Ashpole
@@ -1801,6 +1801,9 @@ sigs:
       name: Damien Grisonnet
       company: Red Hat
     emeritus_leads:
+    - github: ehashman
+      name: Elana Hashman
+      company: Apple
     - github: brancz
       name: Frederic Branczyk
     - github: piosz
